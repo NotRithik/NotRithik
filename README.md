@@ -1,5 +1,5 @@
 # Hello!
-I'm Rithik, a CS student at Ashoka University  
-I'm interested in Machine Learning, Blockchains, Neuroscience and Neuromorphic Computing
+I'm Rithik, ex CS @ Ashoka University
+I'm interested in Blockchains, Machine Learning, Neuroscience, Neuromorphic Computing and Psychology
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/notrithik), via email at [rithikum123@gmail.com](mailto:rithikum123@gmail.com), or on Discord (Add me, not.rithik).
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/notrithik), [rithikum123@gmail.com](mailto:rithikum123@gmail.com), [telegram](https://t.me/notrithik), [x](https://x.com/proof_of_mind) or on Discord (Add me, not.rithik).
