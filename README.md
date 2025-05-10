@@ -1,5 +1,3 @@
-# Hello!
-I'm Rithik, I've studied CS, Entrepreneurship, some Law @ Ashoka University & UoPeople.
-I'm interested in Blockchains, Machine Learning, Neuroscience, Neuromorphic Computing and Psychology.
+Computer Scientist specializing in Blockchain protocol development (DeFi, Stablecoins - e.g., Dira) and applied Machine Learning. My work involves building resilient, data-driven systems and exploring the frontiers of AI, Neuromorphic Computing, and Computational Neuroscience. Actively developing high-performance distributed architectures.
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/notrithik), [rithikum123@gmail.com](mailto:rithikum123@gmail.com), [Telegram](https://t.me/notrithik), [X](https://x.com/proof_of_mind) or Discord (handle: not.rithik).
+Contact: [LinkedIn](https://www.linkedin.com/in/notrithik), [rithikum123@gmail.com](mailto:rithikum123@gmail.com), [Telegram](https://t.me/notrithik).
